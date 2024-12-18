@@ -1,0 +1,6 @@
+[submodule "TableStructureRec"]
+	path = TableStructureRec
+	url = git@github.com:RapidAI/TableStructureRec.git
+[submodule "RapidOCR"]
+	path = RapidOCR
+	url = git@github.com:RapidAI/RapidOCR.git
