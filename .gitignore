@@ -1,0 +1,13 @@
+
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+outputs/
+
+# models
+TableStructureRec/wired_table_rec/models
+TableStructureRec/table_cls/models
+TableStructureRec/lineless_table_rec/models
+RapidOCR/python/rapidocr_onnxruntime/models
